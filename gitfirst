@@ -5,5 +5,6 @@ sub();
 mul();
 div();
 rem();
+printf("Calculator");
 return 0;
 }
