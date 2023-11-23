@@ -4,6 +4,11 @@ add();
 sub();
 mul();
 div();
+
 gcd();
+
+rem();
+printf("Calculator");
+
 return 0;
 }
